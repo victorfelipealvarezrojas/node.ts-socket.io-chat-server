@@ -1,0 +1,6 @@
+### Obtener mensajes
+GET http://localhost:8080/api/mensajes/61ff00fd63f31a927fec67da
+Content-Type: application/json
+x-token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MWZmMmU4M2YwMDZkNTkxOWJhMTBiNDIiLCJpYXQiOjE2NDQyNDQ1ODUsImV4cCI6MTY0NDMzMDk4NX0.f3_qlKXsR8N1G_7f6FBS_1oFkLDchXaAgUftJNq-quo
+
+
